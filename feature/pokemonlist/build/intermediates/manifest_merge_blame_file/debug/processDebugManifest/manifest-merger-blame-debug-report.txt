@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pokeapirecyclerview.feature.pokemonlist" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+5-->INJECTED
+5-->INJECTED
+6
+7    <application>
+7-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:3:5-14:19
+8        <activity
+8-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:4:9-13:20
+9            android:name="com.example.pokeapirecyclerview.feature.pokemonlist.MainActivity"
+9-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:5:13-41
+10            android:exported="true"
+10-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:6:13-36
+11            android:windowSoftInputMode="adjustResize" >
+11-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:7:13-55
+12            <intent-filter>
+12-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:8:13-12:29
+13                <action android:name="android.intent.action.MAIN" />
+13-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:9:17-69
+13-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:9:25-66
+14
+15                <category android:name="android.intent.category.LAUNCHER" />
+15-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:11:17-77
+15-->/home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/feature/pokemonlist/src/main/AndroidManifest.xml:11:27-74
+16            </intent-filter>
+17        </activity>
+18    </application>
+19
+20</manifest>

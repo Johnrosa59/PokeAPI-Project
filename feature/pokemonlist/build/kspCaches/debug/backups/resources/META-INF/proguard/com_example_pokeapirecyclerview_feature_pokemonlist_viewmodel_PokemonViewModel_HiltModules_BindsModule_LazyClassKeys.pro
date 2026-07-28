@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.pokeapirecyclerview.feature.pokemonlist.viewmodel.PokemonViewModel

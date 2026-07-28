@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+drawable pokemon
+id imageView2
+id imgPokemon
+id main
+id rvPokemon
+id textView
+id textView2
+id textView3
+id textView4
+layout activity_main
+layout item_pokemon
+layout recycler_view_item

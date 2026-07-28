@@ -1,0 +1,9 @@
+com.example.pokeapirecyclerview.data-pngs-0 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/build/generated/res/pngs/debug
+com.example.pokeapirecyclerview.data-updated_navigation_xml-1 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/build/generated/updated_navigation_xml/debug
+com.example.pokeapirecyclerview.data-mergeDebugResources-2 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.pokeapirecyclerview.data-mergeDebugResources-3 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.pokeapirecyclerview.data-debug-4 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.pokeapirecyclerview.data-debug-5 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.pokeapirecyclerview.data-debug-6 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/src/debug/res
+com.example.pokeapirecyclerview.data-main-7 /home/JhonRosa/Projetos/PokeAPIRecyclerView-modularizado/PokeAPIRecyclerView/data/src/main/res
+gradleHome-0 /home/JhonRosa/.gradle
