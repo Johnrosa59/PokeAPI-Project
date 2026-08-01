@@ -29,7 +29,7 @@ class PokemonRepositoryImplTwoTest {
     }
 
     @Test
-    fun recoveryPokemon_quandoApiRetornaSucesso_naoDeveRetornarVazio() = runTest {
+    fun recoveryPokemon_whenApiReturnsSuccess_shouldNotReturnEmpty() = runTest {
 
         // 1. Dados simulados (Mock)
         val responseFakeDTO = ResultPokeAPIDTO(
@@ -43,7 +43,7 @@ class PokemonRepositoryImplTwoTest {
         )
 
 
-        Mockito.`when`(mockPokeAPI.recuperarUsuarios()).thenReturn(
+        Mockito.`when`(mockPokeAPI.recoveryPokemons()).thenReturn(
             Response.success(responseFakeDTO)
         )
 

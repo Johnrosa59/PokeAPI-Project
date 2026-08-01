@@ -9,7 +9,7 @@ class FakePokeAPI : PokeAPI {
 
     var shouldReturnError: Boolean = false
 
-    override suspend fun recuperarUsuarios(): Response<ResultPokeAPIDTO> {
+    override suspend fun recoveryPokemons(): Response<ResultPokeAPIDTO> {
         if (shouldReturnError) {
             return Response.error(400, okhttp3.ResponseBody.create(null, "Erro simulado"))
         }

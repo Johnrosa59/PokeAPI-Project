@@ -16,7 +16,7 @@ class PokemonRepositoryImpl @Inject constructor(
 
         try {
 
-            val response = pokeAPI.recuperarUsuarios()
+            val response = pokeAPI.recoveryPokemons()
             if( response.isSuccessful && response.body() != null ){
                 val resultAPIDTO = response.body()
                 val listPokemons = resultAPIDTO?.results
